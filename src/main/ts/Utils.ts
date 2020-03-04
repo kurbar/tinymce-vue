@@ -31,6 +31,7 @@ const validEvents = [
   'onDragDrop',
   'onDragEnd',
   'onDragGesture',
+  'onDragLeave',
   'onDragOver',
   'onDrop',
   'onExecCommand',
